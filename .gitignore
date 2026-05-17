@@ -1,3 +1,5 @@
 .DS_Store
 
-hyperframes/*
+hyperframes/
+output/
+venv/
